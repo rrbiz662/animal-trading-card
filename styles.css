@@ -1,0 +1,38 @@
+/* add your CSS here */
+
+img{
+    width: 300px;
+}
+
+ul{
+    list-style: none;
+}
+
+span{
+    font-weight: bold;
+}
+
+p{
+    padding: 10px;
+}
+
+.italisize{
+    font-style: italic;
+}
+
+.trading-card{
+    width: 300px;    
+    padding: 10px;
+    border: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    box-shadow: 5px 5px 5px lightgrey;
+}
+
+.facts{
+    width: 300px;
+    margin-top: 10px;
+    border: solid;
+    border-width: 1px;    
+    border-color: lightgrey;
+}
