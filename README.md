@@ -1,5 +1,5 @@
 # animal-trading-card
-Source code for the Animal Trading Card Project.
+This project provides a webpage that lists information about white tigers in the form of a trading card.
 
 ## Getting Started
 These instructions will get you a copy of the project on your local machine for development and/or testing purposes.
